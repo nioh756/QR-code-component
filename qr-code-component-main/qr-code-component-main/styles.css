@@ -1,0 +1,48 @@
+
+body{
+
+        background: linear-gradient(to right, #87CEFA, #0059ff);
+        margin: 0;
+        padding: 0;
+        height: 100vh; 
+}
+
+div{
+    width: 265px;
+    border-radius: 13px;
+    background-color: whitesmoke;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding: 14px;
+}    
+h4, p{
+    text-align: center;
+}
+
+p{
+   color: darkgray; 
+}
+
+.QR-code{
+    max-width: 100%;
+    border-radius: 14px;
+}
+
+a{
+    color: darkgray;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #000000;
+    text-decoration: underline;
+}
+
+a:active{
+   color:#0000ff;
+}
+
+a:visited{
+    color: rgb(128, 0, 128)
+}
